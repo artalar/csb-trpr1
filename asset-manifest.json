@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://artalar.github.io/csb-trpr1/static/css/main.854fd71c.chunk.css",
+    "main.js": "https://artalar.github.io/csb-trpr1/static/js/main.7bd56bcd.chunk.js",
+    "main.js.map": "https://artalar.github.io/csb-trpr1/static/js/main.7bd56bcd.chunk.js.map",
+    "runtime-main.js": "https://artalar.github.io/csb-trpr1/static/js/runtime-main.a512de6d.js",
+    "runtime-main.js.map": "https://artalar.github.io/csb-trpr1/static/js/runtime-main.a512de6d.js.map",
+    "static/js/2.fb095f22.chunk.js": "https://artalar.github.io/csb-trpr1/static/js/2.fb095f22.chunk.js",
+    "static/js/2.fb095f22.chunk.js.map": "https://artalar.github.io/csb-trpr1/static/js/2.fb095f22.chunk.js.map",
+    "index.html": "https://artalar.github.io/csb-trpr1/index.html",
+    "static/css/main.854fd71c.chunk.css.map": "https://artalar.github.io/csb-trpr1/static/css/main.854fd71c.chunk.css.map",
+    "static/js/2.fb095f22.chunk.js.LICENSE.txt": "https://artalar.github.io/csb-trpr1/static/js/2.fb095f22.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a512de6d.js",
+    "static/js/2.fb095f22.chunk.js",
+    "static/css/main.854fd71c.chunk.css",
+    "static/js/main.7bd56bcd.chunk.js"
+  ]
+}
